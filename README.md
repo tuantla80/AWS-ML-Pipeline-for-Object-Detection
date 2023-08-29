@@ -10,4 +10,7 @@
 - Splitting data
 - Data Engineering with Mxnet RecordIO format
 - Note: Use instance ml.t2.2xlarge on Sagemaker
+## [Data Augmentation](https://github.com/tuantla80/AWS-ML-Pipeline-for-Object-Detection/blob/main/Data%20Augmentation.ipynb)  
+- Flip Left Right: Image and its bounding boxes
+- Veryfing data before and after augmentation
    
