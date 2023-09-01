@@ -19,4 +19,8 @@
 ### [Analysing training job results](https://github.com/tuantla80/AWS-ML-Pipeline-for-Object-Detection/blob/main/Analysing%20Training%20Job%20results.ipynb)  
 - Deploying model in Sagemaker notebook
 - Visualizing inference results and testing endpoints
+### [Inference: Setting up Batch Transformation](https://github.com/tuantla80/AWS-ML-Pipeline-for-Object-Detection/blob/main/Setting%20up%20Batch%20Transformation.ipynb)  
+- Analysing batch transformation job
+- Visualizing batch transformation results
+###
    
