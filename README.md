@@ -22,5 +22,6 @@
 ### [Inference: Setting up Batch Transformation](https://github.com/tuantla80/AWS-ML-Pipeline-for-Object-Detection/blob/main/Setting%20up%20Batch%20Transformation.ipynb)  
 - Analysing batch transformation job
 - Visualizing batch transformation results
-###
+### Setting up Machine Learning Pipeline  
+
    
