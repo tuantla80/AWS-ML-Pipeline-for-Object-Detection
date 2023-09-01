@@ -16,4 +16,7 @@
 ### [Setting up and Creating Training Job](https://github.com/tuantla80/AWS-ML-Pipeline-for-Object-Detection/blob/main/Seeting%20up%20and%20Creating%20Training%20Job.ipynb)  
 - Create RecordIO file and upload to AWS S3
 - Download Object Detection Algo and Setting up Estimator Object
+### [Analysing training job results](https://github.com/tuantla80/AWS-ML-Pipeline-for-Object-Detection/blob/main/Analysing%20Training%20Job%20results.ipynb)  
+- Deploying model in Sagemaker notebook
+- Visualizing inference results and testing endpoints
    
